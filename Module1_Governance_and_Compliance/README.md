@@ -38,6 +38,14 @@ This repository contains the completed lab assignments for **Module 1: Governanc
 
 ---
 
+## 📁 Files
+
+- `Lab1_Develop_Cybersecurity_Policies_and_Procedures.docx`
+- `Lab2_Recommend_Security_Measures.docx`
+- `Lab3_Personal_Code_of_Ethical_Conduct.docx`
+
+---
+
 ## 📌 Notes
 
 These labs are based on real-world cybersecurity governance concepts and provide foundational experience in:
