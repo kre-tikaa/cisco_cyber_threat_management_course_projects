@@ -2,6 +2,7 @@
 
 This repository contains the completed lab assignments for **Module 1: Governance and Compliance** in the Cisco Cybersecurity course. Each lab focuses on a specific area of Governance, Risk, and Compliance (GRC) within cybersecurity.
 
+---
 
 ## 📘 Labs Overview
 
@@ -26,6 +27,8 @@ This repository contains the completed lab assignments for **Module 1: Governanc
   - Analyzed existing cybersecurity codes of ethics.
   - Developed a personal code of ethical conduct.
   - Reflected on real-world ethical and unethical cybersecurity incidents.
+ 
+---
 
 ## 🛠 Tools & Resources Used
 
