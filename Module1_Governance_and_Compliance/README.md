@@ -2,6 +2,7 @@
 
 This repository contains the completed lab assignments for **Module 1: Governance and Compliance** in the Cisco Cybersecurity course. Each lab focuses on a specific area of Governance, Risk, and Compliance (GRC) within cybersecurity.
 
+---
 
 ## 📘 Labs Overview
 
@@ -26,6 +27,8 @@ This repository contains the completed lab assignments for **Module 1: Governanc
   - Analyzed existing cybersecurity codes of ethics.
   - Developed a personal code of ethical conduct.
   - Reflected on real-world ethical and unethical cybersecurity incidents.
+ 
+---
 
 ## 🛠 Tools & Resources Used
 
@@ -35,6 +38,14 @@ This repository contains the completed lab assignments for **Module 1: Governanc
 - PCI-DSS Standards
 - SANS Security Policy Templates
 - Ethics Framework Research
+
+---
+
+## 📁 Files
+
+- `Lab1_Develop_Cybersecurity_Policies_and_Procedures.docx`
+- `Lab2_Recommend_Security_Measures.docx`
+- `Lab3_Personal_Code_of_Ethical_Conduct.docx`
 
 ---
 
