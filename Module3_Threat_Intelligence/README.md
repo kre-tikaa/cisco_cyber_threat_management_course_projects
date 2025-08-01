@@ -1,4 +1,4 @@
-# Module 3: Threat Intelligence
+#🛡️ Cisco Module 3: Threat Intelligence - Lab Projects
 
 This folder contains completed lab assignments for **Module 3: Threat Intelligence** from the Cisco Cyber Threat Management course. These labs explore how to evaluate cybersecurity reports, research vulnerabilities (CVEs), and investigate potential malware using threat intelligence platforms.
 
