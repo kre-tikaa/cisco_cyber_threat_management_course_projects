@@ -32,7 +32,6 @@ This repository contains the completed lab assignments for **Module 1: Governanc
 
 ## 🛠 Tools & Resources Used
 
-- Microsoft Word
 - Cisco NetAcad CyberOps Training
 - HIPAA Security Rule Documentation
 - PCI-DSS Standards
@@ -49,17 +48,14 @@ This repository contains the completed lab assignments for **Module 1: Governanc
 
 ---
 
-## 📌 Notes
+## 🎯 Learning Outcomes
 
-These labs are based on real-world cybersecurity governance concepts and provide foundational experience in:
-- Policy creation
-- Compliance alignment
-- Ethical decision making in cyber environments
-
----
-
-## 📄 License
-
-This project is for educational use under the Cisco Networking Academy. All trademarks and content belong to their respective owners.
-
-
+- Understand the principles of cybersecurity **governance** and the importance of clearly defined **policies and procedures**
+- Develop organizational **security policies** (e.g., password policy) and **implementation procedures**
+- Analyze and **prioritize vulnerabilities** from security audits
+- Explain the objectives of **compliance frameworks** such as **HIPAA** and **PCI-DSS**
+- Recommend **technical safeguards** to meet compliance requirements
+- Compare different **regulatory frameworks** and identify overlapping security objectives
+- Write a **personal cybersecurity code of ethics** informed by (ISC)², SANS, and IEEE guidelines
+- Apply **ethical decision-making models** to cybersecurity scenarios (e.g., Utilitarianism, Fairness, Rights)
+- Emphasize the role of **policy dissemination**, **employee training**, and **continuous review** in governance
