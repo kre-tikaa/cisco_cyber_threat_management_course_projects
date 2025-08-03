@@ -42,9 +42,3 @@ This folder contains completed lab assignments for **Module 2: Network Security 
 - Recognized signs of DNS misconfiguration
 - Interpreted encrypted vs. unencrypted protocol behavior
 - Strengthened understanding of Layer 3 diagnostics and port scanning
-
----
-
-## 📄 License
-
-This project is for educational use under the Cisco Networking Academy. All trademarks and content belong to their respective owners.
